@@ -75,6 +75,14 @@
             "source": "cereproc",
             "arg": "Carolyn",
             "desc": "Carolyn"
+	},
+	"cellos_apple": {
+		"country": "US",
+		"language": "en",
+		"gender": "M",
+		"source": "apple",
+		"arg": "Cellos",
+		"desc": "Cellos (Apple)"
         },
         "claire_cereproc": {
             "country": "GB",
